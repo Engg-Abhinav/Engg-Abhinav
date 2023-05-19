@@ -19,7 +19,7 @@
 <!-- End here -->
 
 # 💫 About Me:
-🔭 I’m currently working on Data Science<br>📫 How to reach me **- hack.abhinav.agrawal@gmail.com**<br>👯 I’m looking to collaborate on **Deep Learning**<br>⚡ Fun fact - I think I am mature
+🔭 I’m currently working on Data Science<br>📫 How to reach me **- engg.abhinav.agrawal@gmail.com**<br>👯 I’m looking to collaborate on **Deep Learning**<br>⚡ Fun fact - I think I am mature
 
 
 ## 🌐 Socials:
