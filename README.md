@@ -43,9 +43,6 @@
 ---
 <h4 align="center">
 
-[![](https://visitcount.itsvg.in/api?id=engg-abhinav&icon=5&color=3)](https://visitcount.itsvg.in)
-<!-- Cool Giphy Start here -->
-<img align="right" width="100px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
-<!-- End here -->
+[![](https://visitcount.itsvg.in/api?id=engg-abhinav&icon=5&color=3)](https://visitcount.itsvg.in)<img align="right" width="100px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
 
 </h4>
