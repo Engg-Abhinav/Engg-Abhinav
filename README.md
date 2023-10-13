@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **- engg.abhinav.agrawal@gmail.com**.
 
-- 👯 I’m looking to collaborate on **Deep Learning**.
+- 👯 I’m looking to collaborate on **Machine Learning**.
 
 - ⚡ Fun fact - My favourite animal is a dog because they're so energetic and loyal.
 
