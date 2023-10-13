@@ -43,6 +43,6 @@
 ---
 <h4 align="center">
 
-[![](https://visitcount.itsvg.in/api?id=engg-abhinav&icon=5&color=3)](https://visitcount.itsvg.in)<img align="right" width="100px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
+[![](https://visitcount.itsvg.in/api?id=engg-abhinav&icon=5&color=3)](https://visitcount.itsvg.in)
 
 </h4>
